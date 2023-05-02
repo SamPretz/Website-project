@@ -1,0 +1,42 @@
+html {
+  background-image: url(Jimi-Hendrix-Credit-David-Redfern-Redferns@1400x1050.jpg);
+}
+header {
+  width: 600px;
+  margin: 25px auto;
+  text-align: center;
+  padding: auto;
+  width: 800px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: lightsalmon;
+  width: 600px;
+  height: 50px;
+}
+.main {
+  width: 700px;
+  margin: 25px auto;
+  text-align: center;
+  padding: 20px;
+  width: 800px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  border: 3px solid;
+  border-radius: 25px;
+  background-color: lightsalmon;
+}
+.nav {
+  margin: 10px;
+  color: brown;
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: darkgoldenrod;
+}
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
